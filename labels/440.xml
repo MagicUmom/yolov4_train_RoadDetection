@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1021 images</folder>
+	<filename>440.JPG</filename>
+	<path>440.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6_patch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1460</xmin>
+			<ymin>408</ymin>
+			<xmax>1558</xmax>
+			<ymax>727</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>6_patch</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1571</xmin>
+			<ymin>774</ymin>
+			<xmax>1679</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>81.JPG</filename>
+	<path>81.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4_mediumsquare</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>662</ymin>
+			<xmax>230</xmax>
+			<ymax>751</ymax>
+		</bndbox>
+	</object>
+</annotation>

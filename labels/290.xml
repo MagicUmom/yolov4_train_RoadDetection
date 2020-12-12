@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0ttt</folder>
+	<filename>290.JPG</filename>
+	<path>290.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4_mediumsquare</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>624</ymin>
+			<xmax>417</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>

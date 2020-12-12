@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>161.JPG</filename>
+	<path>161.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1_mediumcircle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>562</xmin>
+			<ymin>691</ymin>
+			<xmax>1039</xmax>
+			<ymax>811</ymax>
+		</bndbox>
+	</object>
+</annotation>
